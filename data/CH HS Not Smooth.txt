@@ -1,7 +1,7 @@
 Miniature,
-1.score:'249'username:'dope'
-2.score:'1'username:'wow'
-3.score:'56'username:'buttboy'
+1.score:'0'username:'_'
+2.score:'0'username:'_'
+3.score:'0'username:'_'
 4.score:'0'username:'_'
 5.score:'0'username:'_'
 6.score:'0'username:'_'
@@ -11,7 +11,7 @@ Miniature,
 10.score:'0'username:'_'
 
 Standard,
-1.score:'176'username:'buttman'
+1.score:'0'username:'_'
 2.score:'0'username:'_'
 3.score:'0'username:'_'
 4.score:'0'username:'_'
